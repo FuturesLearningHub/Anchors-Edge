@@ -198,16 +198,16 @@ page = f'''<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Anchor's Edge | A Steady Rhythm of Learning | Vanderbilt</title>
 <meta name="description" content="Anchor's Edge is the ongoing Apply arm of CHART: a 45-minute weekly virtual learning series for Vanderbilt staff and managers, aligned to three enterprise goals.">
-<link rel="canonical" href="https://me5231979.github.io/Anchors-Edge/">
+<link rel="canonical" href="https://futureslearninghub.github.io/Anchors-Edge/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Anchor's Edge | A Steady Rhythm of Learning | Vanderbilt">
 <meta property="og:description" content="Three goals, one rhythm: the weekly virtual learning series that keeps learning close to the work.">
-<meta property="og:image" content="https://me5231979.github.io/Anchors-Edge/assets/img/social-card.png">
+<meta property="og:image" content="https://futureslearninghub.github.io/Anchors-Edge/assets/img/social-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Anchor's Edge | Vanderbilt">
-<meta name="twitter:image" content="https://me5231979.github.io/Anchors-Edge/assets/img/social-card.png">
+<meta name="twitter:image" content="https://futureslearninghub.github.io/Anchors-Edge/assets/img/social-card.png">
 <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
 <link rel="alternate icon" href="assets/img/favicon-96.png">
 <link rel="preload" href="assets/fonts/libre-caslon-display-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
@@ -373,7 +373,7 @@ page = f'''<!DOCTYPE html>
           <li><a href="#rhythm">The weekly rhythm</a></li>
           <li><a href="#months">Every month</a></li>
           <li><a href="#how">How it works</a></li>
-          <li><a href="https://me5231979.github.io/Course_Library/" target="_blank" rel="noopener">The Staff Learning Collection</a></li>
+          <li><a href="https://flh-learning-library.vercel.app/" target="_blank" rel="noopener">The Staff Learning Collection</a></li>
         </ul>
       </div>
     </div>
