@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import resources
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = "https://me5231979.github.io/Anchors-Edge/"
+SITE = "https://futureslearninghub.github.io/Anchors-Edge/"
 
 GOALS = {
     1: {"name": "the Talent Marketplace and the Transfer Portal",

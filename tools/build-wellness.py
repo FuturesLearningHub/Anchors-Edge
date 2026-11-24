@@ -15,7 +15,7 @@ a course.
 import json, os, sys, html
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = "https://me5231979.github.io/Anchors-Edge/"
+SITE = "https://futureslearninghub.github.io/Anchors-Edge/"
 SIGNUP = "[sign-up link]"   # replaced once the registration URL exists
 
 # The wellness thread for each month: the idea, why it belongs beside this
