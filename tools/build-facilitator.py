@@ -11,7 +11,7 @@ prepends the briefing page, and writes the printable guide.html.
 import json, re, html, os, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = "https://me5231979.github.io/Anchors-Edge/"
+SITE = "https://futureslearninghub.github.io/Anchors-Edge/"
 
 
 def build(slug):
